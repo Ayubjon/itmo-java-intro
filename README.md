@@ -2,28 +2,6 @@
 
 [Условия домашних заданий](http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
 
-## Домашнее задание 13. Markdown to HTML
-
-Модификации
- * *Базовая*
-    * [Исходный код тестов](java/md2html/Md2HtmlTest.java)
-    * [Откомпилированные тесты](artifacts/md2html/Md2HtmlTest.jar)
- * *Mark* (32-35)
-    * Добавьте поддержку `~выделения цветом~`: `<mark>выделения цветом</mark>`
-    * [Исходный код тестов](java/md2html/Md2HtmlMarkTest.java)
-    * [Откомпилированные тесты](artifacts/md2html/Md2HtmlMarkTest.jar)
- * *Image* (36, 37)
-    * Добавьте поддержку ```![картинок](http://www.ifmo.ru/images/menu/small/p10.jpg)```:
-        ```&lt;img alt='картинок' src='http://www.ifmo.ru/images/menu/small/p10.jpg'&gt;```
-    * [Исходный код тестов](java/md2html/Md2HtmlImageTest.java)
-    * [Откомпилированные тесты](artifacts/md2html/Md2HtmlImageTest.jar)
- * *Link* (38, 39)
-    * Добавьте поддержку ```[ссылок с _выделением_](https://kgeorgiy.info)```:
-        ```&lt;a href='https://kgeorgiy.info'>ссылок с &lt;em>выделением&lt;/em>&lt;/a>```
-    * [Исходный код тестов](java/md2html/Md2HtmlLinkTest.java)
-    * [Откомпилированные тесты](artifacts/md2html/Md2HtmlLinkTest.jar)
-
-
 ## Домашнее задание 12. Обработка ошибок
 
 Модификации
